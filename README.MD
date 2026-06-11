@@ -2,7 +2,7 @@
 
 請至 [Fruits-360 dataset](https://www.kaggle.com/datasets/moltean/fruits?utm_source=chatgpt.com) 下載完整資料集。
 
-將下載的檔案解壓縮，並放置於 backend/data/fruits-360_100x100/ 目錄下。
+將下載的檔案解壓縮，並放置於 backend/data 目錄下。
 
 進入 backend 目錄執行 python train.py 重新訓練模型，系統將會自動生成 .pt 權重檔並存入 backend/models/ 資料夾中。
 
