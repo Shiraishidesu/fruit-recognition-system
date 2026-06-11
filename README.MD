@@ -1,4 +1,4 @@
-本專案使用 Kaggle 的 Fruit-360 資料集進行訓練。因容量限制，資料集與模型權重並未包含在此 GitHub 儲存庫中。請依照以下步驟設定：
+本專案為gemini 協助完成，且使用 Kaggle 的 Fruit-360 資料集進行訓練。因容量限制，資料集與模型權重並未包含在此 GitHub 儲存庫中。請依照以下步驟設定：
 
 請至 [Fruits-360 dataset](https://www.kaggle.com/datasets/moltean/fruits?utm_source=chatgpt.com) 下載完整資料集。
 
